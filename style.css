@@ -42,7 +42,7 @@ body {
 
 header {
     color: hsl(0, 0%, 95%);
-    font: 2.5rem Big Shoulders Display;
+    font: 1.5rem Big Shoulders Display;
     padding: 10px 0 44px 48px;
 }
 
@@ -51,9 +51,9 @@ header {
 }
 
 h1{
-    margin: 0;
+    margin:0;
+    font-size: 2.5rem;
 }
-
 .btn {
     text-align: center;
     margin: 45px 0 58px;
