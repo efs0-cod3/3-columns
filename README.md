@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/efs0-cod3/)
-- Live Site URL: (https://efs0-cod3.github.io/)
+- Live Site URL: (https://efs0-cod3.github.io/3-columns/)
 
 ## My process
 
