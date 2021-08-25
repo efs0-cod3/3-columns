@@ -44,6 +44,7 @@ header {
     color: hsl(0, 0%, 95%);
     font: 2.5rem Big Shoulders Display;
     padding: 10px 0 44px 48px;
+    text-transform: uppercase;
 }
 
 .card-content {
