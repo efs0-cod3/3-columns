@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/efs0-cod3/)
+- Solution URL: (https://www.frontendmentor.io/solutions/my-second-challenge-getting-the-hang-of-it-yR1TZivNI)
 - Live Site URL: (https://efs0-cod3.github.io/3-columns/)
 
 ## My process
