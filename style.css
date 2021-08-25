@@ -60,8 +60,9 @@ header {
 button {
     padding: 10px 20px;
     border-radius: 30px;
-    border-color: white;
-    color: none;
+       border-color: #fff;
+    background-color:#fff;
+    color: #000;
     mix-blend-mode: screen;
 
 }
