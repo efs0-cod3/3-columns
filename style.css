@@ -1,0 +1,172 @@
+body {
+    font: 15px Lexend Deca;
+    margin: 0;
+}
+
+/*card-colors*/
+.card-sedan {
+    background-color: hsl(31, 77%, 52%);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.card-suv {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.card-lux {
+    background-color: hsl(179, 100%, 13%);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    width: 919px;
+    height: 500px;
+}
+
+.card {
+    color: hsla(0, 0%, 100%, 0.75);
+    text-align: left;
+}
+
+.card-img {
+    padding: 48px 0 41px 48px;
+}
+
+header {
+    color: hsl(0, 0%, 95%);
+    font: 1.5rem Big Shoulders Display;
+    padding: 10px 0 44px 48px;
+}
+
+.card-content {
+    padding: 10px 67px 10px 48px;
+}
+
+.btn {
+    text-align: center;
+    margin: 45px 0 58px;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 30px;
+    border-color: white;
+    color: none;
+    mix-blend-mode: screen;
+
+}
+
+/*final*/
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+@media  screen and (max-width:800px) {
+    body{
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+       
+       
+    }
+    .container {
+        height: 100%;
+    }
+
+    .cards {
+        display: flex;
+        flex-direction: column;
+        width: 80vw;
+        height: fit-content;
+        margin: 20px 0 20px;
+        }
+    
+        .card-content {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+    .btn {
+        text-align: left;
+        padding-left: 48px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .card-sedan {
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+
+    .card-lux {
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+
+    header {
+        padding: 0 0 20px 48px;
+    }
+
+}
+@media  screen and (max-width:600px) {
+    body{
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+       
+       
+    }
+    .container {
+        height: 100%;
+    }
+
+    .cards {
+        display: flex;
+        flex-direction: column;
+        width: 80vw;
+        height: fit-content;
+        margin: 20px 0 20px;
+        }
+    
+        .card-content {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+    .btn {
+        text-align: left;
+        padding-left: 48px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .card-sedan {
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+
+    .card-lux {
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+
+    header {
+        padding: 0 0 20px 48px;
+    }
+
+}
