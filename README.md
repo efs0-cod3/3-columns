@@ -1,12 +1,12 @@
 ## Table of contents
 
-- [Overview](#overview)
+  - [Overview](#overview)
   - [The challenge](#the-challenge)
-- [My process](#my-process)
+  - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [Author](#author)
 
 ### The challenge
 
