@@ -60,11 +60,10 @@ header {
 button {
     padding: 10px 20px;
     border-radius: 30px;
-       border-color: #fff;
+    border-color: #fff;
     background-color:#fff;
     color: #000;
     mix-blend-mode: screen;
-
 }
 
 /*final*/
@@ -97,7 +96,7 @@ button {
         margin: 20px 0 20px;
         }
     
-        .card-content {
+     .card-content {
         padding-bottom: 0;
         padding-top: 0;
     }
@@ -109,6 +108,15 @@ button {
         padding-bottom: 5px;
     }
 
+    button {
+        padding: 10px 20px;
+        border-radius: 30px;
+        border-color: #fff;
+        background-color:#fff;
+        color: #000;
+        mix-blend-mode: screen;
+    }
+    
     .card-sedan {
         border-top-left-radius: 5px;
         border-top-right-radius: 5px;
@@ -144,7 +152,7 @@ button {
         margin: 20px 0 20px;
         }
     
-        .card-content {
+    .card-content {
         padding-bottom: 0;
         padding-top: 0;
     }
@@ -154,6 +162,14 @@ button {
         padding-left: 48px;
         padding-top: 5px;
         padding-bottom: 5px;
+    }
+    button {
+        padding: 10px 20px;
+        border-radius: 30px;
+        border-color: #fff;
+        background-color:#fff;
+        color: #000;
+        mix-blend-mode: screen;
     }
 
     .card-sedan {
